@@ -11,4 +11,3 @@
     ?>
 </body>
 </html>
-git remote add origin https://github.com/ten_tai_khoan/ten_repository.git
